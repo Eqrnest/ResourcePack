@@ -7,7 +7,7 @@ These textures are originally handcrafted from scratch, after about... _one mont
 **Please note**: This pack is __currently 30% done__. All resources may be subjected to change at any time, without prior warning. Fortunately, you can use the previous commits to pull your favourite textures, however compactability is not guarenteed.
 
 # Installation Instructions: 
-Download the pack using the releases page (To the right of this!). Unzip the pack and drag the folder dubbed "The Judges pack" into your resource pack folders.
+Download the pack using the releases page to the right (http://github.com/Eqrnest/ResourcePack/releases). Unzip the pack and drag the folder dubbed "The Judges pack" into your resource pack folders.
 
 __For Windows__, use the command key *Windows + R* (⊞+R) and paste the following text: ``%appdata%\.minecraft\resourcepacks``
 
