@@ -2,9 +2,9 @@
 **Description:**
 My resource pack for Minecraft 1.8.9.
 These textures are originally handcrafted from scratch, after about... _one month of learning pixel art_. Feel free to give me feedback via discord:
-`Zackorai famora#3200`
+`Zackorai Famora#2933`
 
-**Please note**: This pack is __currently 30% done__. All resources may be subjected to change at any time, without prior warning. Fortunately, you can use the previous commits to pull your favourite textures, however compactability is not guarenteed.
+**Please note**: This pack is __currently 50% done__. All resources may be subjected to change at any time, without prior warning. Fortunately, you can use the previous commits to pull your favourite textures, however compactability is not guarenteed.
 
 # Installation Instructions: 
 Download the pack using the releases page to the right (http://github.com/Eqrnest/ResourcePack/releases). Unzip the pack and drag the folder dubbed "The Judges pack" into your resource pack folders.
